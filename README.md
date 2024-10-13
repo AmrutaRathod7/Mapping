@@ -1,2 +1,1 @@
-# Mapping
-Profile-mapping
+This project is a profile management web application built using React. It features a user-friendly interface that allows users to view, search, and filter profiles by name. Each profile is displayed in a card format, showcasing the name, photo, and description, with a button to view more details on a dedicated profile page. The application also includes an admin panel for profile management, allowing administrators to view all profiles and delete any as needed. Leveraging Axios for API calls, the app fetches profile data from a backend server, ensuring a seamless and interactive experience. Additionally, it integrates a map component to visualize profile locations, enhancing user engagement.
